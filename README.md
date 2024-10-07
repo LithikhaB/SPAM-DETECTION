@@ -97,7 +97,7 @@ print(classification_report(y_test, y_pred))
 
 ## Dataset
 
-The dataset used for training the model is a collection of labeled SMS messages. The dataset is not included in this repository, but you can use your own dataset or a publicly available dataset, such as the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
+The dataset used for training the model is a collection of labeled SMS messages. The dataset is included in this repository, but you can use your own dataset or a publicly available dataset, such as the [SMS Spam Collection Dataset](https://archive.ics.uci.edu/ml/datasets/sms+spam+collection).
 
 ## License
 
